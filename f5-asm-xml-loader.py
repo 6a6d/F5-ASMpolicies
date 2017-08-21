@@ -209,7 +209,6 @@ def main():
 		
 		# Get the ASM Policies names to extract IDs
 		asmList = bigIPConnector.ASM.Policy.get_list()
-		asmVS = bigIPConnector.ASM.
 		
 		
 		# Iterate the asm list -------------------------------------------- #
